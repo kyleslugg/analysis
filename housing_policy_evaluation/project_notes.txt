@@ -1,0 +1,16 @@
+Housing Policy and Covid
+
+Headline: See how policy response quality, via Eviction Lab’s Covid-19 Housing Policy Scorecard, predicts positives, positive ratio, and deaths per capita, controlling for socioeconomic covariates.
+
+AND/OR, a matching design looking at eviction moratoria specifically (and using scorecard score as a control)
+
+Data:
+-  https://evictionlab.org/covid-policy-scorecard/
+- HUD
+- ACS
+
+Steps:
+1. Scrape Policy Scorecard
+2. Assemble other data
+3. Think about research design — timeframe, outcome vars, controls, methods
+4. ...?
