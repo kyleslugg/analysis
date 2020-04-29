@@ -11,6 +11,9 @@ Data:
 
 Steps:
 1. Scrape Policy Scorecard
-2. Assemble other data
+2. Assemble other data, including latest COVID Tracking county-level data
 3. Think about research design — timeframe, outcome vars, controls, methods
 4. ...?
+
+Population under study: states with a B or higher on Covid Tracker's Data
+Quality measure
